@@ -14,8 +14,8 @@
     height: 50px;
     position: relative;
     text-align: center;
-    background-color: cornsilk;
-    border-color: cornsilk;
+    background-color: gray;
+    border-color: gray;
 }
 
 #author {
@@ -23,8 +23,8 @@
     height: 50px;
     position: relative;
     text-align: center;
-    background-color: cornsilk;
-    border-color: cornsilk;
+    background-color: gray;
+    border-color: gray;
 }
 
 body {
@@ -35,5 +35,5 @@ body {
 body h1 {
     position: relative;
     text-align: center;
-    color: cornsilk;
+    color: gray;
 }
