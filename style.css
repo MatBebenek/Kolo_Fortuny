@@ -49,6 +49,8 @@ body {
     background-color: gray;
     position: absolute;
     border: 1px solid black;
+    color: white;
+    font-weight: bold;
     border-radius: 5px;
     right: 20px;
     top: 10px;
