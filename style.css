@@ -16,6 +16,8 @@
     text-align: center;
     background-color: gray;
     border-color: gray;
+    font-weight: bold;
+    color: white;
 }
 
 #author {
@@ -25,6 +27,8 @@
     text-align: center;
     background-color: gray;
     border-color: gray;
+    font-weight: bold;
+    color: white;
 }
 
 body {
@@ -36,4 +40,12 @@ body h1 {
     position: relative;
     text-align: center;
     color: gray;
+    font-weight: bold;
+}
+
+.about {
+    width: 60%;
+    position: fixed;
+    height: 60%;
+    background-color: gray;
 }
